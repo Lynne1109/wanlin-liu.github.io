@@ -15,7 +15,7 @@ name                     : &name "Wanlin Liu"
 description              : &description "personal description"
 url                      : https://wanlin-liu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Lynne1109/wanlin-liu.github.io"
+repository               : "wanlin-liu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -29,7 +29,7 @@ author:
   location         : "Beijing, China"
   employer         : "University of International Business and Economics"
   uri              : # URL
-  email            : "wlliu@uibe.edu.cn/lynne.liu0516@gmail.com" 
+  email            : "wlliu@uibe.edu.cn" 
 
   # Academic websites
   academia         : # URL
